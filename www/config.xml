@@ -6,10 +6,10 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>Welcome to Z1Me vCard</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        This is where we will learn how to send virtual eCards.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
